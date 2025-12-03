@@ -49,11 +49,6 @@ const Login: React.FC = () => {
   // Credenciales de cargar rapida (es para hacer pruebas rapidas con los distintos roles, todos tienen la misma contraseña)
   const exampleCredentials = [
     {
-      role: "Super Admin",
-      email: "superadmin@barberbook.com",
-      password: "SuperAdmin123!",
-    },
-    {
       role: "Admin",
       email: "admin@salonelegante.com",
       password: "SuperAdmin123!",
